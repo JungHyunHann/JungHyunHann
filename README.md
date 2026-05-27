@@ -36,7 +36,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Design & Tools**
 
@@ -69,7 +69,7 @@
 | 🏪 4호선톤 - 편슐랭 | 멋쟁이사자처럼 해커톤 · 편의점 조합 추천 서비스 | HTML, CSS, JS | [GitHub](https://github.com/4-18/frontend) |
 | 🌐 SoundMedia | 소리에 반응하는 인터랙티브 웹 | HTML, CSS, JS | [GitHub](https://github.com/JungHyunHann/soundmedia) |
 | 📱 FindMEmory | iOS 수업 · 추억 아이템 찾는 앱 | SwiftUI, PHP, MySQL | [GitHub](https://github.com/orgs/FindMEmory/repositories) |
-| 🎨 AI 미디어아트 파이프라인 | Stable Diffusion LoRA 파인튜닝 · Unity 실시간 연동 · LiDAR 인터랙션 | PyTorch, Unity | - |
+| 🎨 AI 미디어아트 파이프라인 | Stable Diffusion LoRA 파인튜닝 · Unity 실시간 연동 · LiDAR 인터랙션 | Python, C# | - |
 | 🎬 UMC 8기 미니프로젝트 | 영화 리뷰 추천 서비스 | SwiftUI | [GitHub](https://github.com/DSWU-UMC-8th/UMC-8th-TEAM-IOS-FE) |
 | 📅 Indayvidual (UMC 8기) | 커스터마이징 기반 통합 생산성 일정 관리 앱 | SwiftUI | [GitHub](https://github.com/Indayvidual/Indayvidual-iOS) |
 | 🌸 UMC 9기 미니프로젝트 | 향수 리뷰 추천 서비스 | SwiftUI | [GitHub](https://github.com/DSWU-UMC-9th/UMC-9th-TEAM-IOS2-FE) |
