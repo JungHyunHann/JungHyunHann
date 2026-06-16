@@ -17,12 +17,16 @@
 ![StableDiffusion](https://img.shields.io/badge/Stable%20Diffusion-000000?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-7C3AED?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Frontend & Web**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
 
 **iOS & Mobile**
@@ -85,7 +89,7 @@
 | 수상 | 내용 |
 |---|---|
 | 🏆 과학기술대학 학술제 우수상 | AI 미디어아트 파이프라인 프로젝트 |
-| 📄 논문 게재 | AI 미디어아트 파이프라인 연구 |
+| 📄 논문 게재 | [AI 미디어아트 파이프라인 연구](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003288670) |
 
 ---
 
