@@ -16,9 +16,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![StableDiffusion](https://img.shields.io/badge/Stable%20Diffusion-000000?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-7C3AED?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Frontend & Web**
@@ -56,7 +53,7 @@
 | 기간 | 활동 |
 |---|---|
 | 2022.03 ~ 현재 | 덕성여자대학교 IT미디어공학전공 |
-| 2023.09 ~ 2024.08 | GDSC Duksung |
+| 2023.09 ~ 2024.08 | Google Developer Student Clubs Duksung |
 | 2024.03 ~ 2024.08 | Codeit Boost 백엔드 과정 |
 | 2024.03 ~ 2024.12 | 멋쟁이사자처럼 12기 프론트엔드 |
 | 2025.03 ~ 2025.08 | 코테이토 11기 웹 프론트엔드 |
@@ -73,7 +70,7 @@
 | 🏪 4호선톤 - 편슐랭 | 멋쟁이사자처럼 해커톤 · 편의점 조합 추천 서비스 | HTML, CSS, JS | [GitHub](https://github.com/4-18/frontend) |
 | 🌐 SoundMedia | 소리에 반응하는 인터랙티브 웹 | HTML, CSS, JS | [GitHub](https://github.com/JungHyunHann/soundmedia) |
 | 📱 FindMEmory | iOS 수업 · 추억 아이템 찾는 앱 | SwiftUI, PHP, MySQL | [GitHub](https://github.com/orgs/FindMEmory/repositories) |
-| 🎨 AI 미디어아트 파이프라인 | Stable Diffusion LoRA 파인튜닝 · Unity 실시간 연동 · LiDAR 인터랙션 | Python, C# | - |
+| 🎨 AI 미디어아트 파이프라인 | Stable Diffusion LoRA 파인튜닝 · Unity 실시간 연동 · LiDAR 인터랙션 | Python, C#, Plastic SCM | - |
 | 🎬 UMC 8기 미니프로젝트 | 영화 리뷰 추천 서비스 | SwiftUI | [GitHub](https://github.com/DSWU-UMC-8th/UMC-8th-TEAM-IOS-FE) |
 | 📅 Indayvidual (UMC 8기) | 커스터마이징 기반 통합 생산성 일정 관리 앱 | SwiftUI | [GitHub](https://github.com/Indayvidual/Indayvidual-iOS) |
 | 🌸 UMC 9기 미니프로젝트 | 향수 리뷰 추천 서비스 | SwiftUI | [GitHub](https://github.com/DSWU-UMC-9th/UMC-9th-TEAM-IOS2-FE) |
